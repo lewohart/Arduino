@@ -1,0 +1,4 @@
+[submodule "8x8_Matrix/font8x8"]
+	path = 8x8_Matrix/font8x8
+	url = git@github.com:dhepper/font8x8.git
+	branch = master
